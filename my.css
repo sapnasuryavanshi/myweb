@@ -1,0 +1,165 @@
+ 
+#table tr td
+	{
+	color:#A9A9A9;
+	-webkit-column-width:220px;
+	background-color:#AFEEEE;
+	}
+	#table tr td center a
+	{
+	
+    text-decoration:none;
+	}
+	
+	#table tr td:hover
+	{
+	background-color:#48D1CC;
+	
+	}
+    
+	 
+	div .font
+	{ 
+	font-size:40;
+	font-weight:bold;
+	line-height:1.4;
+		
+	}
+	#smallblock1
+	  {
+	   border:1px solid;
+	   width:100%;
+             text-decoration:none;
+	   background-color:#FFFAFA;
+	   color:black;
+	   height:30.5%;
+	   text-align:center;
+	  }
+	
+	 #smallblock 
+	  {
+	  border:1px solid;
+	  float:left;
+       height:23%;
+       width:31.80%;
+	   text-decoration:none;
+	   background-color:#FFFAFA;
+	   color:#696969;
+	   margin:5px;
+
+		text-align:center;
+	  }
+	  
+	  #smallblockofer 
+	  {
+	   border:1px solid;
+	  float:left;
+       height:22%;
+       width:15%;
+	   text-decoration:none;
+	   background-color:#FFFAFA;
+	    color:#696969;
+	    margin:5px;
+		text-align:center;
+	  }
+	  #smallblock  .new
+	  {
+		 
+		 text-align:center
+	     color:pink;
+         font-weight:bold;
+		  
+	  }
+	  
+	  div  marquee .img
+	  {
+		  height:100%;
+		  width:40%;
+	  }
+	#imgofer
+	  {
+		  height:50%;
+		  width:50%;
+	  }
+	  
+	#fourthdivofer  div  img:hover
+	{background-color:yellow;
+		opacity:0.5;
+	}
+	#firstdiv
+       {  text-align:center;
+       color:#A9A9A9;
+       background-color:#2F4F4F;
+       border:1px solid;
+       height:10%;  
+       width:100%;
+       }
+	   #thirddiv
+      {
+       color:#A9A9A9;
+       border:1px solid;
+       height:auto;
+       width:20%;
+       float:right;
+       background-color:#FAEBD7;
+       
+      }
+	    #seconddiv
+         {
+       color:#A9A9A9;
+       background-color:Lavender ;
+       border:1px solid;
+       height:auto;
+       width:20.43%;
+       float:left;
+	   
+       padding-top:20px;
+    }
+	   
+	  .divtext
+	  {
+		  text-align:right;
+		  float:right;
+	 }
+   
+        #fourthdiv
+           {
+       background-color:Lavender ;
+       border:1px solid;
+       
+	   height:auto;
+       width:59%;
+       float:right;
+       
+     }
+	  .bullet 
+	  {
+	  text-decoration:none;
+	  text-align:center;
+	  list-style-type:none;
+	  font-size:20;	
+     }
+	 .bullet li a
+	  {
+	  text-decoration:none;
+	  text-align:center;
+	  list-style-type:none;
+	  font-size:20;	
+     }
+	 
+   div  .font1{
+		 font-size:20;
+		 justify-content:center;
+      word-wrap: break-word;
+	 }
+	 
+	 b .heading
+	 {
+		 font-size:40;
+	 }
+	   .font12
+	  {    size:20;
+		 display:-webkit-flex;
+		 justify-content:flex-start;
+      
+	 }
